@@ -9,6 +9,7 @@ E-commerce businesses often face difficulties in understanding customer behavior
 
 ## GitHub Setup
 GitHub Repository: https://github.com/SandeepMuthoju/data_analytics_project
+Data Set Link: https://www.kaggle.com/datasets/aliiihussain/shopify-sales-dataset-for-ml-and-eda
 
 Maintained by: Sandeep (Project Lead)  
 
